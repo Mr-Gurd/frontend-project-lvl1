@@ -1,6 +1,6 @@
 {
   "name": "@hexlet/code",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "type": "module",
   "description": "[![Actions Status](https://github.com/Mr-Gurd/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/Mr-Gurd/frontend-project-lvl1/actions)",
   "bin": {
@@ -22,5 +22,10 @@
   "homepage": "https://github.com/Mr-Gurd/frontend-project-lvl1#readme",
   "dependencies": {
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
   }
 }
