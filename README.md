@@ -19,3 +19,6 @@
 [![asciicast](https://asciinema.org/a/zSC8UakczLsj6UjoD9sscv1xL.svg)](https://asciinema.org/a/zSC8UakczLsj6UjoD9sscv1xL)
 ### - Brain-Progression:
 #### What number is missing in the progression?
+[![asciicast](https://asciinema.org/a/FjXu0BEkqo4u84JppS99rBm30.svg)](https://asciinema.org/a/FjXu0BEkqo4u84JppS99rBm30)
+### - Brain-????:
+#### ?????
