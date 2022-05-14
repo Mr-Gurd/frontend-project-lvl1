@@ -8,3 +8,4 @@
 ## Аскинемы игр:
 ### - Brain-Even:
 [![asciicast](https://asciinema.org/a/wdWyn9OZeD0zXiVC4UX0nBAtz.svg)](https://asciinema.org/a/wdWyn9OZeD0zXiVC4UX0nBAtz)
+### - Brain-Calc:

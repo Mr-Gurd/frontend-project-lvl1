@@ -1,10 +1,11 @@
 import * as uni from './uniRulls.js';
 
+const min = 1;
+const max = 100;
 const rule = 'Answer "yes" if the number is even, otherwise answer "no".';
 
 const createQuest = () => {
-  const getRandomNum = (min, max) => Math.round(Math.random() * (max - min) + min);
-  const num = getRandomNum(uni.min, uni.max);
+  const num = Math.round(Math.random() * (max - min) + min);
   const question = num;
   const trueAnswer = (num % 2) === 0 ? 'yes' : 'no';
   return [question, trueAnswer];

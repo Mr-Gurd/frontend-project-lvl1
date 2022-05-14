@@ -1,8 +1,6 @@
 import readlineSync from 'readline-sync';
 
 const rounds = 3;
-const min = 1;
-const max = 100;
 
 const universal = (rule, createQuest) => {
   console.log('Welcome to the Brain Games!');
@@ -24,5 +22,5 @@ const universal = (rule, createQuest) => {
 };
 
 export {
-  universal, rounds, min, max,
+  universal, rounds,
 };
