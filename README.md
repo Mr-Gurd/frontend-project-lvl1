@@ -12,4 +12,6 @@
 [![asciicast](https://asciinema.org/a/wdWyn9OZeD0zXiVC4UX0nBAtz.svg)](https://asciinema.org/a/wdWyn9OZeD0zXiVC4UX0nBAtz)
 ### - Brain-Calc:
 [![asciicast](https://asciinema.org/a/1aAgk4IMvoZcTUaSBRI01TOv7.svg)](https://asciinema.org/a/1aAgk4IMvoZcTUaSBRI01TOv7)
-### - Brain-:
+### - Brain-GCD:
+[![asciicast](https://asciinema.org/a/zSC8UakczLsj6UjoD9sscv1xL.svg)](https://asciinema.org/a/zSC8UakczLsj6UjoD9sscv1xL)
+### - Brain-???:
