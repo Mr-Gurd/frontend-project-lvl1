@@ -9,13 +9,13 @@
 
 ## Аскинемы игр:
 ### - Brain-Even:
-####Answer "yes" if the number is even, otherwise answer "no".
+#### Answer "yes" if the number is even, otherwise answer "no".
 [![asciicast](https://asciinema.org/a/wdWyn9OZeD0zXiVC4UX0nBAtz.svg)](https://asciinema.org/a/wdWyn9OZeD0zXiVC4UX0nBAtz)
 ### - Brain-Calc:
-####What is the result of the expression?
+#### What is the result of the expression?
 [![asciicast](https://asciinema.org/a/1aAgk4IMvoZcTUaSBRI01TOv7.svg)](https://asciinema.org/a/1aAgk4IMvoZcTUaSBRI01TOv7)
 ### - Brain-GCD:
-####Find the greatest common divisor of given numbers.
+#### Find the greatest common divisor of given numbers.
 [![asciicast](https://asciinema.org/a/zSC8UakczLsj6UjoD9sscv1xL.svg)](https://asciinema.org/a/zSC8UakczLsj6UjoD9sscv1xL)
 ### - Brain-Progression:
-####What number is missing in the progression?
+#### What number is missing in the progression?
