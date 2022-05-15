@@ -20,5 +20,6 @@
 ### - Brain-Progression:
 #### What number is missing in the progression?
 [![asciicast](https://asciinema.org/a/FjXu0BEkqo4u84JppS99rBm30.svg)](https://asciinema.org/a/FjXu0BEkqo4u84JppS99rBm30)
-### - Brain-????:
-#### ?????
+### - Brain-Prime:
+#### Answer "yes" if given number is prime. Otherwise answer "no".
+[![asciicast](https://asciinema.org/a/JosqCHKG4yiA0f0fXvyF7zrtL.svg)](https://asciinema.org/a/JosqCHKG4yiA0f0fXvyF7zrtL)
