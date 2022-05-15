@@ -1,4 +1,4 @@
-import * as uni from './uniRulls.js';
+import * as uni from '../uniRulls.js';
 
 const min = 1;
 const max = 10;
